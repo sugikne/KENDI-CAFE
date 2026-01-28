@@ -1,0 +1,7 @@
+{
+  "name": "Kendi Cafe - Minimalist Organic Dining",
+  "description": "A high-end, responsive landing page for an organic cafe featuring smooth navigation, a dynamic menu, and aesthetic visual sections.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
